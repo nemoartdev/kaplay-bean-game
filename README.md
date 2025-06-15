@@ -1,1 +1,1 @@
-# kaplay-bean-game ![knight](public/sprites/bean.png)
+# Kaplay Bean Game ![knight](public/sprites/bean.png)
