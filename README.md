@@ -2,4 +2,4 @@
 
 - Para jugar presiona la barra espaciadora.
 
-Ir al juego: https://nemoartdev.github.io/kaplay-bean-game/
+[Clic aquí para jugar.](https://nemoartdev.github.io/kaplay-bean-game/)
